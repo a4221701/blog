@@ -43,6 +43,7 @@ public class TestController {
         System.out.println("aa");
         System.out.println("bbb");
         System.out.println("ccc");
+        System.out.println("dddd");
         return modelAndView;
     }
 }
